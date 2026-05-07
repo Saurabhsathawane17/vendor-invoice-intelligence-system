@@ -13,9 +13,9 @@ An end-to-end Machine Learning pipeline designed to predict freight costs and de
 ## 📸 Dashboard Screenshots
 
 <p align="center">
-  <img src="assets/demo1.png" alt="Dashboard View 1" width="32%">
-  <img src="assets/demo2.png" alt="Dashboard View 2" width="32%">
-  <img src="assets/demo3.png" alt="Dashboard View 3" width="32%">
+  <img src="assets/1.png" alt="Dashboard View 1" width="32%">
+  <img src="assets/2.png" alt="Dashboard View 2" width="32%">
+  <img src="assets/3.png" alt="Dashboard View 3" width="32%">
 </p>
 
 ## � Tech Stack
