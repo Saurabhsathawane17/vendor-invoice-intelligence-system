@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Data and Models (Avoid uploading large or generated files)
+data/*.csv
+models/*.pkl
+
+# OS generated files
+.DS_Store
