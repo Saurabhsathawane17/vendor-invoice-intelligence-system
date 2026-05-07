@@ -10,7 +10,15 @@ An end-to-end Machine Learning pipeline designed to predict freight costs and de
   * `RandomForestClassifier` to flag risky transactions based on anomalous cost margins.
 * **Interactive UI:** A clean Streamlit dashboard to predict outcomes on the fly.
 
-## 💻 Tech Stack
+## 📸 Dashboard Screenshots
+
+<p align="center">
+  <img src="assets/demo1.png" alt="Dashboard View 1" width="32%">
+  <img src="assets/demo2.png" alt="Dashboard View 2" width="32%">
+  <img src="assets/demo3.png" alt="Dashboard View 3" width="32%">
+</p>
+
+## � Tech Stack
 * Python 3.9+
 * Pandas & NumPy (Data Manipulation)
 * Scikit-Learn (Machine Learning pipeline)
@@ -22,3 +30,12 @@ An end-to-end Machine Learning pipeline designed to predict freight costs and de
 2. **Install requirements:**
    ```bash
    pip install -r requirements.txt
+   ```
+3. **Train the AI Models:**
+   ```bash
+   python main.py
+   ```
+4. **Launch the Web Dashboard:**
+   ```bash
+   streamlit run app/app.py
+   ```
